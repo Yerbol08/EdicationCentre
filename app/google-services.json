@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "489422907003",
+    "project_id": "educationcentre-cd0ad",
+    "storage_bucket": "educationcentre-cd0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489422907003:android:043dbbbdc594b17969e4de",
+        "android_client_info": {
+          "package_name": "com.example.edicationcentre1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489422907003-amovsn8liffdh3b9vkved783a5vafut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8sNEV_dUvHC_GSlBGshYqdEq5D8Uf0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489422907003-amovsn8liffdh3b9vkved783a5vafut8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489422907003:android:266183bf7166181469e4de",
+        "android_client_info": {
+          "package_name": "com.example.educationcentre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489422907003-amovsn8liffdh3b9vkved783a5vafut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8sNEV_dUvHC_GSlBGshYqdEq5D8Uf0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489422907003-amovsn8liffdh3b9vkved783a5vafut8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
